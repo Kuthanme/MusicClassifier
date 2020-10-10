@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\C++\MusicClassifier\MusicClassifier\file_classify.h(59,20): warning C4018: '<': signed/unsigned 不相符
+D:\C++\MusicClassifier\MusicClassifier\file_classify.h(112,20): warning C4018: '<': signed/unsigned 不相符
+D:\C++\MusicClassifier\MusicClassifier\file_classify.h(118,21): warning C4018: '<': signed/unsigned 不相符
+  MusicClassifier.vcxproj -> D:\C++\MusicClassifier\Debug\MusicClassifier.exe
